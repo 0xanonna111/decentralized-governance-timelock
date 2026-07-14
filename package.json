@@ -1,0 +1,13 @@
+{
+  "name": "decentralized-governance-timelock",
+  "version": "1.0.0",
+  "description": "On-chain checkpoint-based voting governance engine with modular timelock constraints",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
